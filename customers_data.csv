@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Gender,Age,Location
+1001,Customer_1,F,52,Chicago
+1002,Customer_2,M,44,Houston
+1003,Customer_3,M,47,New York
+1004,Customer_4,F,36,New York
+1005,Customer_5,F,53,Phoenix
+1006,Customer_6,M,18,Phoenix
+1007,Customer_7,F,43,Houston
+1008,Customer_8,M,35,Phoenix
+1009,Customer_9,M,56,Phoenix
+1010,Customer_10,M,18,Los Angeles
+1011,Customer_11,F,24,New York
+1012,Customer_12,M,62,Los Angeles
+1013,Customer_13,F,37,New York
+1014,Customer_14,F,39,Chicago
+1015,Customer_15,M,38,Houston
+1016,Customer_16,M,60,Los Angeles
+1017,Customer_17,M,51,Phoenix
+1018,Customer_18,M,22,Los Angeles
+1019,Customer_19,F,29,Houston
+1020,Customer_20,M,42,Los Angeles
+1021,Customer_21,M,21,Los Angeles
+1022,Customer_22,M,59,New York
+1023,Customer_23,M,37,Phoenix
+1024,Customer_24,F,31,Phoenix
+1025,Customer_25,M,53,Chicago
+1026,Customer_26,M,32,Houston
+1027,Customer_27,M,62,New York
+1028,Customer_28,M,49,Chicago
+1029,Customer_29,F,27,New York
+1030,Customer_30,F,42,Phoenix
+1031,Customer_31,M,53,New York
+1032,Customer_32,F,61,Phoenix
+1033,Customer_33,M,25,New York
+1034,Customer_34,M,56,Los Angeles
+1035,Customer_35,M,64,Los Angeles
+1036,Customer_36,M,46,New York
+1037,Customer_37,F,23,Houston
+1038,Customer_38,M,40,Los Angeles
+1039,Customer_39,M,46,New York
+1040,Customer_40,M,49,New York
+1041,Customer_41,M,54,Chicago
+1042,Customer_42,F,38,Houston
+1043,Customer_43,M,42,New York
+1044,Customer_44,F,21,Houston
+1045,Customer_45,F,53,Los Angeles
+1046,Customer_46,F,56,New York
+1047,Customer_47,F,31,Phoenix
+1048,Customer_48,F,36,New York
+1049,Customer_49,F,50,Phoenix
+1050,Customer_50,F,21,New York

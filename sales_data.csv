@@ -1,0 +1,6 @@
+Order_ID,Product_ID,Customer_ID,Order_Date,Quantity,Price,Discount,Salesperson
+1,101,1001,2024-07-25,2,500,0.1,John
+2,102,1002,2024-07-24,1,300,0.0,Jane
+3,103,1003,2024-07-23,1,700,0.2,Doe
+4,104,1004,2024-07-22,3,400,0.0,Smith
+5,105,1005,2024-07-21,2,600,0.1,Alice
