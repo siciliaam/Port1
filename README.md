@@ -1,3 +1,6 @@
+The **Electronic Product Sales Analysis** project aims to provide comprehensive insights into product performance, monthly trends, customer behavior, and profit margins based on a simulated dataset. Utilizing Python and libraries such as pandas, matplotlib, and seaborn, data from three main sources—Sales, Products, and Customers—are processed to identify best-selling products, most active customers, and items with the highest profit margins. This project includes data cleaning, date conversion, sales visualization, and exporting results to Excel and graphical formats. All data used is simulated and can be replaced with real datasets for further exploration and analysis.
+
+
 🎯 Objectives of the Analysis
 Identify the best-selling electronic products across different time periods.
 
